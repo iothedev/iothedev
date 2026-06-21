@@ -1,16 +1,16 @@
-## Hi there 👋
+# Iothedev
+> Full-Stack Web-Developer
 
-<!--
-**iothedev/iothedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building websites with TypeScript, Next.js, React, and Tailwind CSS.
 
-Here are some ideas to get you started:
+**Tech:** TypeScript, Next.js, React, Tailwind CSS, Node.js, PostgreSQL, Prisma
+**Tools:** VS Code, Figma, GitHub, Notion, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 100+ projects completed
+* 50+ customers
+* 5+ years coding
+
+[Personal Website](https://iothe.dev)
+
+E-Mail: `iothedev@gmail.com`
+Discord, Telegram: `@iothedev`
