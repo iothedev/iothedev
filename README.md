@@ -4,4 +4,4 @@
 [Personal Website](https://iothe.dev)
 
 E-Mail: `iothedev@gmail.com`  
-Discord & Telegram: `@iothedev`
+Discord, Telegram & X: `@iothedev`
